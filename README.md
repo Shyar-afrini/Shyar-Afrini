@@ -21,7 +21,7 @@ In my free time, I'm a sound engineer and enjoy creating and mixing sounds, expe
 
 ## 👨‍💻 Technical Skills:
 
-<span style="color: #0078D7; font-weight: bold;">Front-end</span> development | <span style="color: orange; font-weight: 500;">HTML</span> | <span style="color: #0078D7; font-weight: 500;">CSS</span> | <span style="color: yellow; font-weight: 500;">JavaScript</span> | UI/UX design | Git
+<span style="color: #0078D7; font-weight: bold;">Front-end</span> development | <span style="color: orange; font-weight: 500;">HTML</span> | <span style="color: #0078D7; font-weight: 500;">CSS</span> | <span style="color: yellow; font-weight: 500;">JavaScript</span> | React.js | Tailwindcss | UI/UX design | Git
 
 </br>
   
